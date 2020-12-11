@@ -3,7 +3,6 @@
  
  ***
  ## DEMO https://nnjn-ui.github.io/LandingPage.github.io/
- 
  ***
  ## Technologies used:
  - HTML/CSS/LESS/JavaScript
